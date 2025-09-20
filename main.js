@@ -13,7 +13,4 @@ minus.addEventListener('click', function sub() {
   if (display.value <= 10 && display.value > 1) {
     display.value--
   }
-  else {
-    display.value = 1;
-  }
 })
